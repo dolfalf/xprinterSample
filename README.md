@@ -1,6 +1,14 @@
 # xprinterSample
-XprinterSample
+XprinterSampleプロジェクト
 
+## Getting Started!
+1.  Download XPrinterSDK
+2.  add XPrinterSDK in Project
+3.  The use of SDK requires adding system dependency libraries
+  - SystemConfiguration.framework
+  - CFNetwork.framework
+  - CoreBluetooth.framework
+ 
 
 ## XPrinterSDK関連リンク
 
